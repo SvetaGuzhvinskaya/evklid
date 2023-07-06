@@ -1,4 +1,4 @@
-# evklid
+# Evclid
 Адаптивная верстка сайта Evclid с подключением плагинов:
 <ul>
 <li>swiper.js</li>
